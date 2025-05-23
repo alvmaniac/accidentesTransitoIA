@@ -2,6 +2,7 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
+import joblib
 
 def clean_data(df):
      # Eliminar columnas irrelevantes para la predicción
@@ -16,6 +17,8 @@ def clean_data(df):
         "Did_Police_Officer_Attend_Scene_of_Accident"
     ]
     
+    encoders = {}
+    
    # Recorre todas las columnas categóricas especificadas
     for col in categorical_cols:
         # Verifica si la columna existe en el DataFrame
@@ -24,9 +27,17 @@ def clean_data(df):
             df[col] = df[col].astype(str).fillna("Unknown")
             # Crea un codificador de etiquetas (LabelEncoder)
             le = LabelEncoder()
+            # Asegura que "Unknown" esté registrado
+            le.fit(list(df[col].unique()) + ["Unknown"]) 
             # Aplica el codificador a la columna, convirtiendo cada categoría en un número entero
             df[col] = le.fit_transform(df[col])
+            encoders[col] = le  # Guardar el encode
+        else:
+            le = encoders.get(col)
+            if le:
+                df[col] = df[col].map(lambda s: le.transform([s])[0] if s in le.classes_ else -1)
   
+    joblib.dump(encoders, "label_encoders.pkl")
    # Llenar valores numéricos faltantes con la media  
     if "Age_of_Casualty" in df.columns:
         df["Age_of_Casualty"] = pd.to_numeric(df["Age_of_Casualty"], errors='coerce')
