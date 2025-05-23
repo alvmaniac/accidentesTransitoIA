@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulario de Predicción</title>
+</head>
+<body>
+<h2>Formulario de Predicción de Severidad de Accidente</h2>
+<form method="POST" action="/predecir">
+  <label>Número de vehículos:</label>
+  <input type="number" name="Number_of_Vehicles" required><br><br>
+
+  <label>Condiciones del clima:</label>
+  <select name="Weather_Conditions">
+    <option value="Snowing without high winds">Snowing without high winds</option>
+    <option value="Fine without high winds">Fine without high winds</option>
+    <option value="Fine with high winds">Fine with high winds</option>
+    <option value="Fog or mist _ if hazard">Fog or mist _ if hazard</option>
+    <option value="Raining with high winds">Raining with high winds</option>
+    <option value="Raining without high winds">Raining without high winds</option>
+    <option value="Snowing with high winds">Snowing with high winds</option>
+    <option value="Snowing without high winds">Snowing without high winds</option>
+    <option value="Other">Other</option>
+  </select><br><br>
+
+  <label>Edad del lesionado:</label>
+  <input type="number" name="Age_of_Casualty" required><br><br>
+
+  <label>Sexo del lesionado:</label>
+  <select name="Sex_of_Casualty">
+    <option value="Male">Hombre</option>
+    <option value="Female">Mujer</option>
+  </select><br><br>
+
+  <input type="submit" value="Predecir Severidad">
+</form>
+</body>
+</html>
