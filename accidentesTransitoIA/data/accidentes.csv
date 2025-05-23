@@ -1,0 +1,800 @@
+Reference_Number;Grid_Ref_Easting;Grid_Ref_Northing;Number_of_Vehicles;Accident_Date;Time_24hr;1st_Road_Class;Road_Surface;Lighting_Conditions;Weather_Conditions;Casualty_Class;Casualty_Severity;Sex_of_Casualty;Age_of_Casualty;Type_of_Vehicle;Did_Police_Officer_Attend_Scene_of_Accident
+21G0539;427798;426248;5;16-Jan-15;1205;A;Snow;Daylight: street lights present;Snowing without high winds;Driver/Rider;Slight;Male;36;Goods vehicle 3.5 tonnes mgw and under;1
+21G0539;427798;426248;5;16-Jan-15;1205;A;Snow;Daylight: street lights present;Snowing without high winds;Passenger;Slight;Male;27;Goods vehicle 3.5 tonnes mgw and under;1
+21G1108;431142;430087;1;16-Jan-15;1732;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Male;68;Car;1
+21I0242;427328;435078;2;18-Jan-15;1645;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;17;Motorcycle over 50cc and up to 125cc;1
+21I0756;427322;431991;2;18-Jan-15;1421;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;18;Car;1
+21I0756;427322;431991;2;18-Jan-15;1421;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;8;Car;1
+21J0605;434543;436492;2;19-Jan-15;1325;Unclassified;Frost / Ice;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;18;Motorcycle over 125cc and up to 500cc;1
+21K0325;431729;434575;1;19-Jan-15;1730;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Female;24;Car;1
+21L1572;430033;431012;1;21-Jan-15;2005;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Male;45;Car;1
+2110145;430902;432293;2;01-Jan-15;35;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Serious;Female;23;Taxi/Private hire car;1
+2111672;428479;433311;1;01-Jan-15;1750;A;Wet / Damp;Darkness: street lights present and lit;Fine with high winds;Driver/Rider;Serious;Male;67;Car;1
+2120569;425692;426859;1;02-Jan-15;1254;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;73;Goods vehicle 7.5 tonnes mgw and over;1
+2130502;431002;430603;2;03-Jan-15;1210;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;46;Car;1
+2150935;427750;426259;2;05-Jan-15;1610;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Fatal;Male;47;Pedal cycle;1
+2160936;429174;431862;2;06-Jan-15;1759;Motorway;Wet / Damp;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;38;Car;1
+2161029;429491;432913;2;06-Jan-15;1740;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;27;Motorcycle over 50cc and up to 125cc;1
+2180398;429361;439562;1;07-Jan-15;1500;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;22;Car;1
+2180457;426536;427737;1;08-Jan-15;1115;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;63;Car;1
+2180711;426456;427823;1;08-Jan-15;1416;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;89;Car;1
+21A0339;428076;434307;1;10-Jan-15;820;A;Wet / Damp;Daylight: street lights present;Fine with high winds;Pedestrian;Fatal;Male;61;Goods vehicle 3.5 tonnes mgw and under;0
+21A0461;431207;426172;2;10-Jan-15;1011;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;18;M/cycle 50cc and under;1
+21D0796;435043;436940;1;13-Jan-15;1525;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;17;Motorcycle over 50cc and up to 125cc;1
+21E1208;432878;425976;2;14-Jan-15;1925;Motorway;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;38;Car;1
+21N0194;430098;435394;2;23-Jan-15;729;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;52;Car;1
+21N0302;425190;427268;2;24-Jan-15;900;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;22;Car;1
+21O0494;426296;427802;1;24-Jan-15;1018;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;79;Car;1
+21P1235;429470;435412;1;23-Jan-15;1530;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;37;Car;1
+21Q1286;429282;433483;1;27-Jan-15;1650;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Serious;Female;82;Bus or coach (17 or more passenger seats);1
+21R0973;434925;435580;2;27-Jan-15;1540;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;44;Motorcycle over 500cc;1
+21S0284;427263;435169;2;28-Jan-15;900;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Serious;Male;51;Motorcycle over 500cc;1
+21T0436;441952;443793;2;29-Jan-15;1035;A(M);Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;43;Car;1
+21U0906;438491;430216;1;30-Jan-15;1530;Unclassified;Frost / Ice;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;38;Car;1
+21V0945;431170;431454;1;31-Jan-15;1328;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;84;Bus or coach (17 or more passenger seats);1
+2210619;426971;426044;1;01-feb-15;1125;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;77;Motorcycle over 500cc;1
+2230686;430639;434702;2;03-feb-15;1402;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;29;Car;1
+2240971;429780;433662;1;31-Jan-15;1345;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;23;Car;1
+2250906;424973;435145;2;05-feb-15;1515;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;23;Car;1
+2261053;427896;439768;1;06-feb-15;1504;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;66;Bus or coach (17 or more passenger seats);1
+22A0807;431825;438836;2;10-feb-15;1415;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;48;Car;1
+22B0878;433829;437220;1;11-feb-15;1517;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;23;Taxi/Private hire car;1
+22C1019;433054;425927;2;12-feb-15;1545;Motorway;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;24;Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw;1
+22C1257;430381;433493;1;12-feb-15;1756;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Male;66;Bus or coach (17 or more passenger seats);1
+22C1287;424682;444843;2;11-feb-15;1737;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Pedal cycle;1
+22D1495;428127;431168;2;13-feb-15;2035;Unclassified;Dry;Darkness: street lights present and lit;NA;Passenger;Slight;Female;19;Taxi/Private hire car;1
+22D1495;428127;431168;2;13-feb-15;2035;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;18;Car;1
+22D1495;428127;431168;2;13-feb-15;2035;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;21;Car;1
+2.20E+72;426782;438296;1;14-feb-15;110;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;33;Car;1
+2.20E+72;426782;438296;1;14-feb-15;110;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;33;Car;1
+22E0455;427193;433530;1;14-feb-15;955;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;64;Car;1
+22E0472;427324;434641;1;13-feb-15;1730;Unclassified;Wet / Damp;Darkness: street lighting unknown;Fine without high winds;Pedestrian;NA;Female;25;Car;1
+22E0588;425401;437525;2;14-feb-15;1105;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;21;Car;1
+22E0588;425401;437525;2;14-feb-15;1105;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;24;Car;1
+22E0588;425401;437525;2;14-feb-15;1105;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;26;Car;1
+22E0588;425401;437525;2;14-feb-15;1105;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;34;Car;1
+22E1040;432391;435803;1;14-feb-15;1515;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;12;Goods vehicle 3.5 tonnes mgw and under;0
+22E1172;421488;434006;3;14-feb-15;1757;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Female;44;Car;0
+22E1521;430790;433473;1;14-feb-15;2201;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;NA;21;Car;1
+22G0058;427471;438609;1;16-feb-15;110;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;18;Car;1
+22G0058;427471;438609;1;16-feb-15;110;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;18;Car;1
+22G0058;427471;438609;1;16-feb-15;110;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;18;Car;1
+22G0191;439502;426183;1;16-feb-15;615;A;Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Driver/Rider;Serious;Male;46;Car;1
+22H0163;428750;431550;2;17-feb-15;635;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;62;Car;1
+22H0208;425587;435781;2;17-feb-15;815;B;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;29;Pedal cycle;1
+22H0501;424346;437171;2;17-feb-15;1905;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;29;Pedal cycle;1
+22H0629;432374;434799;1;17-feb-15;1313;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;18;Car;1
+22H0875;426495;427092;1;17-feb-15;1522;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;51;Car;1
+22H1540;425061;435708;1;17-feb-15;2048;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Female;19;Car;1
+22H1540;425061;435708;1;17-feb-15;2048;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Male;20;Car;1
+22I0232;428783;433276;1;18-feb-15;836;A;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Motorcycle over 50cc and up to 125cc;1
+22I0340;427328;437198;2;18-feb-15;1015;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;19;Pedal cycle;1
+22I0889;430188;436207;2;18-feb-15;1515;A;Dry;Daylight: street lights present;NA;Driver/Rider;Slight;Male;29;Car;1
+22I0966;432264;434593;2;18-feb-15;1547;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;26;Car;0
+22I0966;432264;434593;2;18-feb-15;1547;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;29;Car;1
+22I1162;443370;433250;2;18-feb-15;1725;Unclassified;Wet / Damp;Darkness: no street lighting;Fine without high winds;Driver/Rider;Serious;Male;52;Car;1
+22I1162;443370;433250;2;18-feb-15;1725;Unclassified;Wet / Damp;Darkness: no street lighting;Fine without high winds;Passenger;Slight;Male;10;Car;1
+22I1162;443370;433250;2;18-feb-15;1725;Unclassified;Wet / Damp;Darkness: no street lighting;Fine without high winds;Driver/Rider;Slight;Male;32;Car;1
+22I1162;443370;433250;2;18-feb-15;1725;Unclassified;Wet / Damp;Darkness: no street lighting;Fine without high winds;Passenger;Serious;Male;8;Car;1
+22J0348;421154;433254;1;19-feb-15;925;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;51;Goods vehicle 3.5 tonnes mgw and under;1
+22K0007;430022;435539;2;20-feb-15;3;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Female;25;Pedal cycle;1
+22L1303;424220;435597;1;21-feb-15;1923;A;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Male;53;Car;0
+22L1564;439750;434129;2;21-feb-15;2205;Motorway;Dry;Darkness: no street lighting;Fine without high winds;Driver/Rider;Serious;Female;28;Car;1
+22O2000;428107;426675;1;24-feb-15;2000;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;39;Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw;0
+22Q0461;429562;433444;1;26-feb-15;1107;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;20;Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw;1
+2310434;426798;438033;2;01-mar-15;802;A;Wet / Damp;Daylight: street lights present;Raining with high winds;Driver/Rider;Serious;Male;20;Pedal cycle;1
+2310685;422478;434670;1;28-feb-15;1030;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;90;Mobility Scooter;1
+2320464;432531;443163;3;02-mar-15;1120;A;Snow;Daylight: street lights present;Snowing with high winds;Passenger;Serious;Female;82;Car;1
+2360564;423539;435419;2;06-mar-15;1138;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;21;Car;1
+2370884;424535;428612;1;07-mar-15;1350;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;21;Car;1
+2370884;424535;428612;1;07-mar-15;1350;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Fatal;Male;14;Car;1
+2370884;424535;428612;1;07-mar-15;1350;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Fatal;Male;13;Car;1
+2370884;424535;428612;1;07-mar-15;1350;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;15;Car;1
+2370884;424535;428612;1;07-mar-15;1350;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;14;Car;1
+2371243;431518;433635;2;07-mar-15;1700;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;29;Motorcycle over 125cc and up to 500cc;0
+23A1419;431884;435185;1;10-mar-15;1905;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;32;Taxi/Private hire car;1
+23D1408;430395;427898;2;13-mar-15;1933;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;15;M/cycle 50cc and under;1
+23F0931;426644;437611;2;15-mar-15;1545;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;72;Car;1
+23I0977;435623;435067;1;18-mar-15;1534;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;49;Car;1
+23J0112;427941;435715;1;19-mar-15;336;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;48;Goods vehicle 3.5 tonnes mgw and under;1
+23J1312;426563;437724;2;19-mar-15;1840;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;23;Motorcycle over 50cc and up to 125cc;0
+23J1597;427506;425505;2;19-mar-15;2213;A;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Serious;Female;14;Car;1
+23K1829;422447;432853;1;20-mar-15;2155;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Male;75;Car;1
+23L1620;441157;433152;2;21-mar-15;2100;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Female;74;Car;1
+23L1712;430337;433738;1;21-mar-15;2205;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Male;39;Car;1
+23O0636;429916;434261;1;23-mar-15;30;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Male;24;Car;1
+23P0647;440020;437467;1;25-mar-15;1315;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;86;Car;1
+23R0238;427378;434918;2;27-mar-15;810;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;35;Motorcycle over 50cc and up to 125cc;1
+23R1537;443109;433214;2;27-mar-15;2030;A;Dry;Darkness: no street lighting;Fine without high winds;Driver/Rider;Serious;Male;68;Car;1
+23V1374;420537;441180;2;31-mar-15;1935;Unclassified;Wet / Damp;Daylight: street lights present;Fine with high winds;Pedestrian;Serious;Male;54;Car;1
+2410244;428947;431095;1;01-Apr-15;837;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Pedestrian;Serious;Male;29;Car;0
+2410297;430954;435909;2;01-Apr-15;918;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;27;Car;1
+2410323;429939;427156;2;01-Apr-15;720;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;19;Car;0
+2410505;440579;426178;1;01-Apr-15;1150;A;Dry;Daylight: street lights present;Fine with high winds;Driver/Rider;Slight;Female;36;Car;0
+2410505;440579;426178;1;01-Apr-15;1150;A;Dry;Daylight: street lights present;Fine with high winds;Passenger;Slight;Male;6;Car;1
+2410505;440579;426178;1;01-Apr-15;1150;A;Dry;Daylight: street lights present;Fine with high winds;Passenger;Slight;Male;3;Car;1
+2410581;423426;437612;1;01-Apr-15;1229;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;75;Car;1
+2410639;422974;443050;3;01-Apr-15;1311;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;25;Car;1
+2410639;422974;443050;3;01-Apr-15;1311;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;19;Car;1
+2411078;426560;437636;2;01-Apr-15;1710;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;65;Car;1
+2411225;433313;426326;2;01-Apr-15;1829;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;44;Car;1
+2411225;433313;426326;2;01-Apr-15;1829;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Passenger;Slight;Male;8;Car;1
+2421638;423192;434656;2;02-Apr-15;2030;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;38;Pedal cycle;1
+2421679;431916;435768;1;02-Apr-15;2100;A;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Male;48;Car;1
+2430623;432139;435308;2;03-Apr-15;1236;B;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;37;Car;1
+2441311;430801;435344;2;04-Apr-15;1910;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;44;Car;0
+2441585;430486;437095;3;04-Apr-15;2129;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;25;Car;1
+2441585;430486;437095;3;04-Apr-15;2129;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Female;20;Car;1
+2441585;430486;437095;3;04-Apr-15;2129;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;20;Car;1
+2441585;430486;437095;3;04-Apr-15;2129;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Serious;Female;46;Car;1
+2450446;426807;438051;2;05-Apr-15;915;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;44;Pedal cycle;1
+2450877;430333;433353;1;05-Apr-15;300;Unclassified;Wet / Damp;Darkness: street lighting unknown;Fine without high winds;Pedestrian;Slight;Male;29;Taxi/Private hire car;0
+2460843;436044;436625;3;06-Apr-15;1435;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;4;Car;1
+2460974;430667;433033;1;06-Apr-15;1545;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;26;Car;1
+2460978;442804;430043;2;06-Apr-15;1500;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;66;Car;1
+2460978;442804;430043;2;06-Apr-15;1500;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;69;Car;0
+2460978;442804;430043;2;06-Apr-15;1500;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;32;Car;1
+2460978;442804;430043;2;06-Apr-15;1500;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;7;Car;1
+2470212;428477;440937;3;07-Apr-15;650;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;74;Minibus (8 _ 16 passenger seats);1
+2470212;428477;440937;3;07-Apr-15;650;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;63;Minibus (8 _ 16 passenger seats);1
+2470212;428477;440937;3;07-Apr-15;650;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;69;Minibus (8 _ 16 passenger seats);1
+2470212;428477;440937;3;07-Apr-15;650;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;72;Car;1
+2470212;428477;440937;3;07-Apr-15;650;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;70;Car;1
+2470236;431541;425123;4;07-may-15;735;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;49;Goods vehicle 3.5 tonnes mgw and under;1
+2470302;428408;428707;3;07-Apr-15;850;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;25;Car;1
+2471090;428333;429426;1;07-Apr-15;1545;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;20;Car;1
+2471402;420360;434249;1;07-Apr-15;1710;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;55;Bus or coach (17 or more passenger seats);1
+2480598;431430;435108;2;08-Apr-15;1226;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;32;Pedal cycle;0
+2480749;434883;431172;3;08-Apr-15;1352;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;18;Car;0
+2480749;434883;431172;3;08-Apr-15;1352;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;52;Car;0
+2480885;441176;448799;1;08-Apr-15;1450;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;76;Motorcycle over 125cc and up to 500cc;1
+2481294;428376;434061;2;08-Apr-15;800;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;31;Pedal cycle;1
+2481330;427964;435659;2;08-Apr-15;1814;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;28;Motorcycle over 50cc and up to 125cc;1
+2481683;439524;426178;1;08-Apr-15;2050;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;43;Motorcycle over 500cc;1
+2491283;424390;428121;2;09-Apr-15;1830;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;26;Car;1
+24A1196;443052;445597;1;10-Apr-15;1724;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;48;Motorcycle over 125cc and up to 500cc;1
+24A1424;421067;434231;1;10-Apr-15;1900;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;41;Car;1
+24A1503;425962;434813;2;10-Apr-15;1937;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;58;Motorcycle over 125cc and up to 500cc;1
+24A1627;433797;434675;1;10-Apr-15;2043;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Male;35;Goods vehicle 3.5 tonnes mgw and under;1
+24B0116;430033;431028;2;11-Apr-15;121;A;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;18;Taxi/Private hire car;1
+24D0548;429653;438791;2;13-Apr-15;1215;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;82;Car;1
+24D0548;429653;438791;2;13-Apr-15;1215;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;23;Car;1
+24D1285;418050;442626;2;13-Apr-15;1840;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;58;Pedal cycle;1
+2.40E+245;422811;437414;4;14-Apr-15;825;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;26;Goods vehicle 3.5 tonnes mgw and under;1
+2.40E+245;422811;437414;4;14-Apr-15;825;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;44;Tram / Light rail;1
+2.40E+245;422811;437414;4;14-Apr-15;825;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;44;Tram / Light rail;0
+2.40E+245;422811;437414;4;14-Apr-15;825;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;47;Tram / Light rail;1
+24G0374;430397;437894;2;15-Apr-15;1000;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;20;Car;0
+24G0531;428067;431126;3;16-Apr-15;1138;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;27;Car;1
+24G0531;428067;431126;3;16-Apr-15;1138;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;30;Car;1
+24G0760;434791;437966;2;16-Apr-15;1358;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;51;Pedal cycle;1
+24G0886;424393;445320;2;16-Apr-15;1455;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;47;Car;1
+24H0925;428893;425994;3;17-Apr-15;1430;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;33;Car;1
+24H1015;438495;430408;2;17-Apr-15;1553;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;37;Car;0
+24H1015;438495;430408;2;17-Apr-15;1553;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;24;Car;1
+24H1015;438495;430408;2;17-Apr-15;1553;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;16;Car;1
+24H1115;424732;434896;2;17-Apr-15;1640;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;61;Motorcycle over 500cc;1
+24H1125;424586;434644;1;17-Apr-15;1647;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;31;Car;1
+24H1185;429330;433810;2;17-Apr-15;1045;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;34;Car;0
+24H1280;436054;428299;2;17-Apr-15;1757;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;33;Car;1
+24H1400;432700;433838;2;17-Apr-15;1330;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;12;Pedal cycle;1
+24I1142;430479;433954;1;18-Apr-15;1656;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;3;Car;1
+24J0248;433446;426578;1;19-Apr-15;255;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;32;Car;1
+24J1015;430231;439102;1;19-Apr-15;1530;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;3;Car;1
+24J1094;424010;433985;1;19-Apr-15;1641;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;7;Car;1
+24K1310;428621;436944;2;20-Apr-15;1835;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;12;Car;1
+24K1326;428437;435708;2;20-Apr-15;1846;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;38;Pedal cycle;1
+24L0653;425435;431280;2;21-Apr-15;1241;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;30;Car;1
+24L0986;424254;445392;2;21-Apr-15;1542;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Pedal cycle;1
+24L1279;424049;435490;2;21-Apr-15;1750;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;51;Car;1
+24L1298;421539;433443;1;21-Apr-15;1758;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;11;Car;0
+24M0203;428354;437572;1;22-Apr-15;730;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;53;Car;1
+24M0220;435674;434799;2;22-Apr-15;759;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;51;Bus or coach (17 or more passenger seats);1
+24M0233;435683;437259;3;22-Apr-15;840;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;23;Car;0
+24M1106;427125;432791;3;22-Apr-15;1630;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;31;Car;1
+24M1106;427125;432791;3;22-Apr-15;1630;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;9;Car;1
+24M1338;423921;434305;2;22-Apr-15;1815;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;59;Pedal cycle;0
+24M1346;427148;433087;1;22-Apr-15;1734;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;44;Bus or coach (17 or more passenger seats);0
+24M1388;419976;446751;1;22-Apr-15;1840;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;20;Motorcycle over 50cc and up to 125cc;1
+24N0184;428864;433733;2;23-Apr-15;720;A(M);Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;49;Goods vehicle 3.5 tonnes mgw and under;1
+24N0512;429185;431924;2;23-Apr-15;1125;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;53;Bus or coach (17 or more passenger seats);1
+24N0512;429185;431924;2;23-Apr-15;1125;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;57;Bus or coach (17 or more passenger seats);1
+24N0570;424345;429253;3;23-Apr-15;1159;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;83;Car;1
+24N0821;425062;433367;2;23-Apr-15;1425;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;16;Pedal cycle;1
+24N0835;431449;434180;3;23-Apr-15;1430;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;54;Car;1
+24N0835;431449;434180;3;23-Apr-15;1430;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;42;Car;1
+24N0936;429863;428116;1;23-Apr-15;1312;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;55;Goods vehicle 3.5 tonnes mgw and under;0
+24N0964;427491;434943;1;23-Apr-15;1546;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;4;Car;0
+24N0973;426766;438353;2;23-Apr-15;1550;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;84;Car;1
+24N0973;426766;438353;2;23-Apr-15;1550;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;40;Car;1
+24N1046;430267;433745;1;23-Apr-15;817;Unclassified;Dry;Daylight: street lights present;Fog or mist _ if hazard;Driver/Rider;Slight;Male;37;Bus or coach (17 or more passenger seats);1
+24N1046;430267;433745;1;23-Apr-15;817;Unclassified;Dry;Daylight: street lights present;Fog or mist _ if hazard;Passenger;Slight;Female;31;Bus or coach (17 or more passenger seats);1
+24N1112;424524;437059;2;23-Apr-15;0;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;42;Pedal cycle;1
+24N1293;430550;431065;2;23-Apr-15;1822;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;17;Motorcycle over 50cc and up to 125cc;1
+24O0302;428140;435853;2;24-Apr-15;830;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;28;Pedal cycle;1
+24O0419;428948;433432;2;24-Apr-15;845;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;39;Car;1
+24O0818;435890;434756;1;24-Apr-15;1343;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;32;Car;1
+24Q0502;432275;445684;1;26-Apr-15;1030;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Pedal cycle;1
+24Q0773;424083;435508;2;26-Apr-15;1330;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;40;Car;0
+24Q0773;424083;435508;2;26-Apr-15;1330;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Car;1
+24Q0922;427593;430848;1;26-Apr-15;1150;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;35;Goods vehicle 3.5 tonnes mgw and under;1
+24Q1198;429428;434925;2;26-Apr-15;1754;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;27;Pedal cycle;1
+24Q1317;426622;435290;1;26-Apr-15;1900;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;5;Car;1
+24R0153;428098;434518;2;27-Apr-15;659;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;21;Car;0
+24R0819;433086;434019;1;27-Apr-15;1431;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;28;Bus or coach (17 or more passenger seats);0
+24R0884;418925;441708;1;27-Apr-15;1504;B;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;12;Goods vehicle 3.5 tonnes mgw and under;1
+24R0971;427524;436945;2;27-Apr-15;1540;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;44;Motorcycle over 125cc and up to 500cc;0
+24R1071;427688;436414;1;27-Apr-15;1640;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;12;Car;1
+24R1093;432549;434329;2;27-Apr-15;1635;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;38;Car;0
+24R1762;427443;436155;1;27-Apr-15;2310;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Male;19;Taxi/Private hire car;0
+24S0758;426269;434031;1;28-Apr-15;1142;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;26;Bus or coach (17 or more passenger seats);1
+24S0932;419931;441028;3;28-Apr-15;1555;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;47;Car;1
+24S1184;427871;436243;2;28-Apr-15;1754;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;34;Pedal cycle;0
+24S1202;426379;435440;2;28-Apr-15;1720;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;NA;Female;44;Pedal cycle;0
+2530022;421551;434731;1;03-may-15;15;B;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Male;52;Car;1
+2530022;421551;434731;1;03-may-15;15;B;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Female;51;Car;1
+2530101;436082;435693;1;03-may-15;110;A;Dry;Darkness: street lighting unknown;Fine without high winds;Passenger;Serious;Male;34;Car;1
+2530358;421847;444071;1;03-may-15;1622;Unclassified;Wet / Damp;Daylight: street lights present;Unknown;Pedestrian;Slight;Female;23;Other Vehicle ;1
+2530817;427878;434391;2;01-may-15;1818;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;27;Pedal cycle;1
+2530839;437660;431541;1;03-may-15;1500;Motorway;Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;54;Car;1
+2530839;437660;431541;1;03-may-15;1500;Motorway;Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;8;Car;1
+2531016;434881;433557;1;03-may-15;1707;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;5;Car;0
+2533382;420546;444956;2;03-may-15;850;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Serious;Male;42;Pedal cycle;1
+2533382;420546;444956;2;03-may-15;850;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;40;Car;1
+2540536;438997;446045;2;04-may-15;1100;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;50;Pedal cycle;1
+2540603;443629;436911;2;04-may-15;1145;A(M);Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;22;Car;1
+2540782;427394;431458;2;04-may-15;1320;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;55;Motorcycle over 500cc;1
+2541576;434451;433699;2;04-may-15;2035;B;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Fatal;Male;38;Motorcycle over 500cc;1
+2541576;434451;433699;2;04-may-15;2035;B;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Serious;Female;33;Motorcycle over 500cc;1
+2550074;435207;437595;1;05-may-15;200;A;Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Pedestrian;Serious;Male;20;Taxi/Private hire car;1
+2550265;424274;428351;2;05-may-15;840;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Female;21;Motorcycle over 50cc and up to 125cc;1
+2550406;432242;427028;3;05-may-15;1000;Motorway;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;19;Car;1
+2550406;432242;427028;3;05-may-15;1000;Motorway;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;34;Car;0
+2550632;431522;435149;2;03-may-15;1715;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;49;Pedal cycle;0
+2551157;436324;434706;1;05-may-15;1700;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;9;Car;1
+2551278;434363;434362;2;05-may-15;1810;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;56;Car;1
+2551278;434363;434362;2;05-may-15;1810;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;NA;56;Car;1
+2551278;434363;434362;2;05-may-15;1810;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;45;Car;0
+2551278;434363;434362;2;05-may-15;1810;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;45;Car;1
+2551278;434363;434362;2;05-may-15;1810;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;45;Car;1
+2551283;430220;427189;2;05-may-15;1810;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;17;Motorcycle over 50cc and up to 125cc;1
+2551283;430220;427189;2;05-may-15;1810;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;19;Motorcycle over 50cc and up to 125cc;1
+2551323;428927;438124;2;05-may-15;1835;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;40;Car;1
+2560221;432997;425921;5;06-may-15;804;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;54;Car;1
+2560221;432997;425921;5;06-may-15;804;Motorway;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;52;Car;1
+2560221;432997;425921;5;06-may-15;804;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Car;1
+2560221;432997;425921;5;06-may-15;804;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;55;Goods vehicle 3.5 tonnes mgw and under;1
+2560367;434047;427722;2;06-may-15;845;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;45;Car;1
+2560685;429167;437678;2;06-may-15;1315;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;41;Car;1
+2561091;427649;434442;2;06-may-15;1700;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;45;Car;1
+2561154;430724;438280;3;06-may-15;1740;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;24;Car;1
+2561154;430724;438280;3;06-may-15;1740;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;19;Car;1
+2561491;432631;434927;1;06-may-15;2055;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Male;15;Car;1
+2590845;431004;432045;3;09-may-15;1529;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;53;Car;1
+2590845;431004;432045;3;09-may-15;1529;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;45;Car;1
+25A0748;432841;438289;1;10-may-15;1255;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;6;Car;1
+25D0183;421032;444996;2;13-may-15;659;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;29;Pedal cycle;0
+25D0260;426240;435394;1;04-may-15;1310;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;54;Other Vehicle ;1
+25D0337;435428;439801;2;13-may-15;930;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;27;Car;1
+2.50E+73;428093;430036;1;14-may-15;112;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Female;35;Car;1
+25F0511;430701;433470;1;15-may-15;1015;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;47;Bus or coach (17 or more passenger seats);1
+25F1329;430896;436565;2;15-may-15;1855;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;25;M/cycle 50cc and under;1
+25J1004;428578;434733;1;19-may-15;1705;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;15;Car;1
+25K1283;431511;435138;3;20-may-15;1902;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Fatal;Male;25;Car;1
+25K1283;431511;435138;3;20-may-15;1902;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;46;Car;1
+25K1442;445306;427942;2;20-may-15;2135;Unclassified;Dry;Darkness: no street lighting;Fine without high winds;Driver/Rider;Serious;Male;21;Motorcycle over 500cc;1
+25M0962;430369;433493;1;22-may-15;1557;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;34;Bus or coach (17 or more passenger seats);1
+25N0442;425806;433073;6;23-may-15;932;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;28;Car;1
+25N0970;427411;435856;2;22-may-15;2100;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;37;Goods vehicle 3.5 tonnes mgw and under;1
+25O0406;428303;429632;1;24-may-15;536;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;24;Car;1
+25O1593;435195;442112;1;24-may-15;2100;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;16;Car;1
+25P1670;422569;434703;1;25-may-15;2250;B;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Serious;Male;24;Car;1
+25Q1087;429529;430760;1;26-may-15;1600;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;2;Goods vehicle 3.5 tonnes mgw and under;1
+25R1340;431767;430481;1;27-may-15;1922;Motorway;Wet / Damp;Daylight: street lights present;Other;Driver/Rider;Serious;Male;55;Goods vehicle 7.5 tonnes mgw and over;0
+25U0618;431831;432885;1;30-may-15;1150;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;9;Car;1
+25U0766;436731;433817;1;30-may-15;1335;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;17;Car;1
+25U1409;430950;433295;1;30-may-15;1950;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;56;Goods vehicle 3.5 tonnes mgw and under;1
+2631535;428712;436506;2;03-jun-15;2035;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;68;Taxi/Private hire car;0
+2640405;432780;430385;2;26-may-15;632;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;25;Pedal cycle;1
+2640593;439602;433042;2;04-jun-15;1214;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;67;Pedal cycle;1
+2650776;419603;445164;3;05-jun-15;1330;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;78;Bus or coach (17 or more passenger seats);0
+2651032;426351;433095;2;05-jun-15;1522;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;27;Pedal cycle;1
+2671254;427608;436802;2;07-jun-15;1853;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;21;Pedal cycle;1
+2681475;425019;433163;1;08-jun-15;2015;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;63;Car;1
+2690217;428698;433115;2;09-jun-15;722;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;28;Motorcycle over 500cc;1
+2690372;430794;438656;1;09-jun-15;950;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;85;Car;1
+2691318;428897;429815;1;09-jun-15;1850;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;44;Pedal cycle;1
+26A0960;420345;440471;2;10-jun-15;1520;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;47;Pedal cycle;0
+26C0245;439263;432415;1;12-jun-15;725;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;43;Motorcycle over 500cc;1
+26D0695;427349;430725;1;13-jun-15;1301;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;24;Motorcycle over 50cc and up to 125cc;1
+26F0665;428655;429774;2;15-jun-15;1250;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;51;Motorcycle over 125cc and up to 500cc;1
+26F0826;429334;433483;1;15-jun-15;1425;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;43;Car;1
+26G0960;431413;428535;2;16-jun-15;1514;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;30;Car;1
+26I0282;427322;437205;2;18-jun-15;835;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;33;Pedal cycle;1
+26J0691;425363;437476;1;19-jun-15;1310;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;93;Bus or coach (17 or more passenger seats);1
+26J1049;422397;432685;2;19-jun-15;1545;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;37;Pedal cycle;1
+26K0228;430532;440750;1;20-jun-15;254;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Serious;Male;22;Car;1
+26L0021;430925;433950;2;21-jun-15;15;Unclassified;Dry;Darkness: street lights present but unlit;Fine without high winds;Pedestrian;Serious;Male;42;Taxi/Private hire car;0
+26L1283;431717;434548;2;21-jun-15;1843;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;45;Pedal cycle;1
+26M0246;432055;435968;2;22-jun-15;800;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;33;Pedal cycle;1
+26N0594;428622;436968;2;23-jun-15;1239;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;79;Bus or coach (17 or more passenger seats);1
+26N1521;430960;428233;2;23-jun-15;2040;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;11;Pedal cycle;1
+26N1577;422027;440633;2;23-jun-15;2115;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;60;Motorcycle over 500cc;1
+26N1703;431149;424771;2;23-jun-15;2233;Motorway;Dry;Darkness: no street lighting;Fine without high winds;Passenger;Slight;Female;68;Car;0
+26N1703;431149;424771;2;23-jun-15;2233;Motorway;Dry;Darkness: no street lighting;Fine without high winds;Passenger;Slight;Female;42;Car;1
+26N1703;431149;424771;2;23-jun-15;2233;Motorway;Dry;Darkness: no street lighting;Fine without high winds;Passenger;Slight;Female;32;Car;1
+26N1743;423653;443836;2;23-jun-15;2258;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;51;Pedal cycle;1
+26O0315;431758;434889;2;24-jun-15;850;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;31;Car;1
+26O0318;425697;432088;2;24-jun-15;854;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;24;Pedal cycle;0
+26O1434;430018;434081;1;24-jun-15;1924;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;24;Pedal cycle;1
+26P0028;423775;435718;2;25-jun-15;13;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;38;Pedal cycle;1
+26P0292;426914;430193;4;25-jun-15;830;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;37;Car;1
+26P0292;426914;430193;4;25-jun-15;830;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;19;Car;1
+26P0420;427996;435578;2;25-jun-15;2100;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Pedal cycle;1
+26Q0412;425797;428422;2;26-jun-15;1015;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;28;Motorcycle over 50cc and up to 125cc;1
+26Q0554;420472;446287;3;26-jun-15;1145;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;48;Pedal cycle;1
+26Q0881;428267;431558;2;26-jun-15;1504;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;21;Car;0
+26Q0881;428267;431558;2;26-jun-15;1504;Motorway;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;21;Car;0
+26Q0881;428267;431558;2;26-jun-15;1504;Motorway;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;21;Car;0
+26Q0881;428267;431558;2;26-jun-15;1504;Motorway;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;21;Car;1
+26Q0919;433157;436418;1;26-jun-15;1530;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;12;Car;0
+26Q1013;428972;435464;2;26-jun-15;1605;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;16;Pedal cycle;1
+26Q1200;428096;434666;2;26-jun-15;1730;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;24;Car;0
+26Q1380;437505;433074;1;26-jun-15;1216;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;48;Bus or coach (17 or more passenger seats);1
+26Q1394;419791;434071;1;26-jun-15;1905;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;13;Car;1
+26Q1617;430998;440111;2;26-jun-15;2105;A;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;20;Motorcycle over 50cc and up to 125cc;1
+26R0284;423968;434365;1;28-jun-15;315;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;24;Car;1
+26R0374;424839;432201;1;27-jun-15;510;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Serious;Male;22;Car;1
+26R0374;424839;432201;1;27-jun-15;510;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;25;Car;1
+26R0657;430501;445445;2;27-jun-15;1115;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;64;Pedal cycle;1
+26R0726;435036;434687;2;27-jun-15;1209;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;42;Motorcycle over 500cc;0
+26R1154;431959;435824;3;27-jun-15;1640;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;32;Car;1
+26S1214;419123;442183;1;28-jun-15;1639;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;73;Car;0
+26T1020;430830;439636;1;29-jun-15;1555;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;8;Car;1
+26T1020;430830;439636;1;29-jun-15;1555;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;6;Car;1
+26U1462;430412;433721;2;30-jun-15;1720;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;23;Bus or coach (17 or more passenger seats);1
+26U1636;428742;438566;2;30-jun-15;1940;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;47;Pedal cycle;1
+26U2121;434786;437577;3;30-jun-15;2350;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;28;Car;1
+2710614;433562;436350;2;01-jul-15;1132;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;80;Car;1
+2710687;428580;434974;2;01-jul-15;1212;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;59;Motorcycle over 500cc;1
+2711200;435058;435039;2;01-jul-15;1640;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;13;Pedal cycle;1
+2711299;431853;434722;3;02-jul-15;1725;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;59;Car;0
+2711490;421921;436471;2;01-jul-15;1820;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;28;Car;1
+2711490;421921;436471;2;01-jul-15;1820;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;29;Car;1
+2711658;420396;433882;1;01-jul-15;2006;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;9;Car;1
+2711974;432445;434824;1;01-jul-15;2225;B;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;24;Car;1
+2720302;434422;428873;2;02-jul-15;1630;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;6;Pedal cycle;1
+2720387;422183;428750;2;02-jul-15;922;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;29;Motorcycle over 500cc;1
+2720574;432215;435565;2;02-jul-15;830;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;34;Car;1
+2730610;429041;436497;1;03-jul-15;1330;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;20;Car;1
+2730939;432519;436680;2;03-jul-15;1435;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;39;Pedal cycle;1
+2731172;429959;433224;2;02-jul-15;1705;Unclassified;Dry;Darkness: street lighting unknown;Fine without high winds;Driver/Rider;Slight;Male;26;Pedal cycle;1
+2731213;432759;427522;2;03-jul-15;1641;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;45;Pedal cycle;1
+2731512;431977;426301;2;03-jul-15;1430;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;36;Car;1
+2740708;428922;430240;2;04-jul-15;1110;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;45;Goods vehicle 3.5 tonnes mgw and under;1
+2740793;426008;428229;2;03-jul-15;1530;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;46;Pedal cycle;0
+2740949;428967;433871;3;04-jul-15;1334;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;19;Car;1
+2740949;428967;433871;3;04-jul-15;1334;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;38;Goods vehicle 3.5 tonnes mgw and under;0
+2742206;430801;435344;2;04-jul-15;2350;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;62;Taxi/Private hire car;1
+2742206;430801;435344;2;04-jul-15;2350;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;38;Taxi/Private hire car;1
+2751100;420513;445573;2;05-jul-15;1630;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;59;Motorcycle over 500cc;1
+2751100;420513;445573;2;05-jul-15;1630;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Passenger;Slight;Female;56;Motorcycle over 500cc;1
+2751543;420462;434288;2;05-jul-15;2038;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;23;Motorcycle over 50cc and up to 125cc;1
+2751580;430576;434780;1;05-jul-15;2103;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;21;Car;0
+2770543;432653;436950;1;07-jul-15;1045;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;66;Bus or coach (17 or more passenger seats);1
+2771109;426416;428501;2;07-jul-15;1715;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;33;Car;1
+2771166;433188;425906;2;07-jul-15;1745;Motorway;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;20;Car;1
+2771612;425288;432688;1;07-jul-15;2129;Unclassified;Wet / Damp;Darkness: street lights present and lit;Raining with high winds;Driver/Rider;Slight;Male;41;Car;1
+2771973;436073;428721;4;07-jul-15;2340;Unclassified;Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Passenger;Serious;Female;39;Car;0
+2780311;424174;428150;2;08-jul-15;925;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;54;Motorcycle over 500cc;1
+2780790;424053;427952;2;08-jul-15;1426;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;35;Goods vehicle 3.5 tonnes mgw and under;1
+2781106;430841;434008;1;08-jul-15;1702;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;14;Car;1
+2781255;441247;434629;2;08-jul-15;1255;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;34;Car;0
+2790012;429921;437009;2;09-jul-15;40;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;34;Other Vehicle ;1
+2790045;420937;434447;2;09-jul-15;10;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;NA;31;Car;1
+2790202;420319;434220;2;09-jul-15;650;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;39;Car;1
+2790214;430469;433461;2;09-jul-15;720;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;43;Pedal cycle;1
+2790234;435148;425912;3;09-jul-15;757;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;25;Car;1
+2790234;435148;425912;3;09-jul-15;757;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;19;Car;1
+2790234;435148;425912;3;09-jul-15;757;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;24;Car;1
+2790252;432217;426323;1;09-jul-15;815;B;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;11;Car;1
+2790324;428959;429802;1;09-jul-15;910;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;30;Taxi/Private hire car;1
+2790508;428792;435576;2;09-jul-15;1115;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;22;Pedal cycle;1
+2790575;424924;434464;2;09-jul-15;1204;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;33;Car;1
+2790575;424924;434464;2;09-jul-15;1204;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;2;Car;1
+2790984;424353;434764;1;09-jul-15;1605;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;39;Car;1
+2791086;430489;437179;2;09-jul-15;1648;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;36;Car;1
+2791139;428150;435641;2;09-jul-15;1711;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Pedal cycle;0
+2791287;424471;437775;2;09-jul-15;1815;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;22;Car;1
+27B0112;430267;433395;1;11-jul-15;110;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Male;22;Taxi/Private hire car;1
+27B0507;433057;435014;5;11-jul-15;850;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;36;Car;1
+27B0838;445223;447175;1;11-jul-15;1305;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;55;Motorcycle over 500cc;1
+27B1158;431521;435147;2;11-jul-15;1600;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;25;Car;1
+27B1158;431521;435147;2;11-jul-15;1600;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;28;Car;1
+27B1173;432246;426279;2;11-jul-15;1535;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;22;Car;1
+27B1936;425654;429532;1;11-jul-15;2315;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Female;52;Car;1
+27B1936;425654;429532;1;11-jul-15;2315;A;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;28;Car;1
+27B1936;425654;429532;1;11-jul-15;2315;A;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;33;Car;0
+27C1014;426812;431692;1;12-jul-15;1454;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;47;Motorcycle over 50cc and up to 125cc;0
+27C1065;422910;437538;2;12-jul-15;1528;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;48;Car;1
+27C1568;420646;436684;2;12-jul-15;1940;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;58;Car;1
+27C1603;420839;434417;2;12-jul-15;2000;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;54;Car;1
+27C1603;420839;434417;2;12-jul-15;2000;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;19;Car;1
+27D0677;422451;432854;2;13-jul-15;1256;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Serious;Male;37;Car;0
+27D0677;422451;432854;2;13-jul-15;1256;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Passenger;Slight;Female;31;Car;1
+27D0738;432624;436859;1;13-jul-15;1326;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;65;Car;1
+27D0963;427184;434758;2;13-jul-15;1515;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;22;Pedal cycle;0
+27D1008;433009;433995;1;13-jul-15;1540;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;17;Car;1
+27D1861;425594;434233;1;13-jul-15;2359;A;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Fatal;Male;25;Car;1
+27E0748;430434;435052;2;14-jul-15;1313;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;37;Car;1
+27E0970;424930;427641;2;14-jul-15;1555;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;18;Car;1
+27E0970;424930;427641;2;14-jul-15;1555;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;36;Car;1
+27E1210;432246;439812;2;14-jul-15;1810;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;13;Pedal cycle;1
+27E1351;428623;440712;2;14-jul-15;1920;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;60;Pedal cycle;1
+27F0296;434124;433893;2;15-jul-15;745;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;1;Bus or coach (17 or more passenger seats);0
+27F0528;436320;428322;2;15-jul-15;920;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;29;Car;0
+27F0537;428289;432860;2;16-jul-15;1029;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;31;Car;1
+27F0849;424200;434492;2;13-jul-15;846;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Pedal cycle;0
+27F1052;424347;438787;2;15-jul-15;1520;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;63;Car;1
+27F1334;428099;426293;2;15-jul-15;1740;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;21;Motorcycle over 50cc and up to 125cc;1
+27F1352;436020;443793;1;15-jul-15;1750;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;79;Car;0
+27F1470;429374;436046;2;15-jul-15;1849;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;23;Car;1
+27G0245;422461;427899;2;16-jul-15;700;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Fatal;Male;64;Motorcycle over 500cc;1
+27G0457;422322;433400;1;16-jul-15;1000;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;80;Car;0
+27G0615;422291;428606;1;18-jul-15;1151;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;10;Car;1
+27G0775;430351;425089;1;16-jul-15;1306;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;41;Car;1
+27G0965;426916;435445;2;15-jul-15;1720;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;23;Pedal cycle;1
+27G1075;427292;433460;1;16-jul-15;1540;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;58;Motorcycle over 500cc;1
+27G1202;422345;434594;2;29-jul-15;715;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;47;Pedal cycle;1
+27G1317;422300;433933;1;16-jul-15;1732;A;Dry;Darkness: street lights present but unlit;Fine without high winds;Driver/Rider;Slight;Female;47;Motorcycle over 500cc;1
+27G1419;427127;434793;2;16-jul-15;1823;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Pedal cycle;1
+27G1994;427133;427915;2;16-jul-15;1630;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;10;Pedal cycle;1
+27H0318;431244;434574;4;17-jul-15;841;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;58;Car;0
+27H0509;431062;428241;1;17-jul-15;945;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;24;Car;1
+27H0716;420851;439838;2;17-jul-15;640;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;46;Car;1
+27H1025;431214;433667;1;17-jul-15;1550;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;40;Bus or coach (17 or more passenger seats);1
+27H1249;422391;434767;1;17-jul-15;1740;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;7;Car;1
+27H1744;430306;439336;1;17-jul-15;1600;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;13;Car;1
+27I0202;431644;437780;1;18-jul-15;200;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;21;Car;1
+27I0646;427589;440838;2;18-jul-15;1132;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;36;Pedal cycle;1
+27I1438;432245;435440;1;18-jul-15;1630;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;2;Car;0
+27I1804;430952;433295;1;18-jul-15;2300;A;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Male;37;Car;1
+27J0612;422306;433316;1;19-jul-15;910;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;40;Car;1
+27J0860;440810;433663;1;19-jul-15;1248;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;49;Car;1
+27K0528;421084;435303;2;20-jul-15;1042;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;69;Car;1
+27K0579;424262;445380;2;20-jul-15;1116;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Fatal;Male;83;Car;1
+27K0625;425017;428919;2;20-jul-15;745;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Pedal cycle;0
+27K0724;426804;438039;2;20-jul-15;1345;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Pedal cycle;1
+27K0878;430650;438919;2;20-jul-15;1415;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;58;Pedal cycle;1
+27K0916;430026;431772;1;20-jul-15;1430;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;69;Mobility Scooter;0
+27K1130;421271;436328;1;20-jul-15;1635;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;18;Car;1
+27K1130;421271;436328;1;20-jul-15;1635;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;17;Car;1
+27K1130;421271;436328;1;20-jul-15;1635;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;15;Car;1
+27O0307;436181;434389;2;24-jul-15;830;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;50;Car;1
+27O0307;436181;434389;2;24-jul-15;830;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;29;Car;1
+27O0307;436181;434389;2;24-jul-15;830;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;57;Car;1
+27O0704;431553;439563;2;24-jul-15;1230;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;65;Car;1
+27O1253;431215;424833;2;24-jul-15;1720;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;30;Motorcycle over 500cc;0
+27O1290;427945;436116;2;24-jul-15;1737;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;40;Pedal cycle;1
+27O1823;433427;434919;1;24-jul-15;2155;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;49;Bus or coach (17 or more passenger seats);1
+27P1820;430065;433775;2;25-jul-15;2322;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;38;Bus or coach (17 or more passenger seats);1
+27Q0787;432110;433583;1;26-jul-15;1230;A;Dry;Daylight: street lights present;Other;Pedestrian;Slight;Male;6;Car;1
+27R0471;426626;435088;2;27-jul-15;900;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;35;Pedal cycle;1
+27R0641;433804;434635;2;27-jul-15;1250;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;74;Mobility Scooter;1
+27R0928;434027;436677;1;27-jul-15;1434;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Serious;Male;29;Car;1
+27R1121;430523;431270;2;27-jul-15;1721;Motorway;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;41;Car;0
+27S0699;431031;440331;3;28-jul-15;1325;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Passenger;Slight;Male;77;Car;1
+27S1173;419577;446222;2;28-jul-15;1727;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;46;Pedal cycle;1
+27S1361;430901;436183;2;28-jul-15;1932;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;44;Car;1
+27S1361;430901;436183;2;28-jul-15;1932;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Pedal cycle;1
+27S1433;420347;434208;2;28-jul-15;1154;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;49;Car;1
+27T0613;424141;437535;2;29-jul-15;730;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;30;Pedal cycle;1
+27T0647;439673;430309;2;29-jul-15;1240;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;27;Car;1
+27T0647;439673;430309;2;29-jul-15;1240;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;21;Car;1
+27T0647;439673;430309;2;29-jul-15;1240;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;57;Car;1
+27T1138;430641;430781;2;29-jul-15;1708;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;32;Pedal cycle;1
+27T1261;426963;439789;2;29-jul-15;1800;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;38;Pedal cycle;1
+27T1284;431523;436212;2;29-jul-15;1800;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;31;Car;1
+27T1623;439290;426017;2;04-jul-15;1930;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;8;Pedal cycle;1
+27U0211;421565;428479;2;30-jul-15;634;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;34;Pedal cycle;1
+27U0228;431402;435029;2;30-jul-15;700;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;28;Car;1
+27U0228;431402;435029;2;30-jul-15;700;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;25;Car;1
+27U0329;433725;429723;3;30-jul-15;915;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;56;Goods vehicle 7.5 tonnes mgw and over;1
+27U0867;432732;435740;1;30-jul-15;1500;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;23;Car;1
+27U0904;431419;434088;2;30-jul-15;1530;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;22;Car;1
+27U0904;431419;434088;2;30-jul-15;1530;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;8;Car;1
+27U0988;429921;433321;2;30-jul-15;830;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;42;Pedal cycle;0
+27U1294;429379;430162;2;30-jul-15;1400;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Car;1
+27U1334;427452;431884;3;30-jul-15;1830;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;25;Car;1
+27U1334;427452;431884;3;30-jul-15;1830;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;44;Car;1
+27U1601;434612;431472;2;30-jul-15;2059;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;31;Pedal cycle;1
+27V1148;424883;434415;2;31-jul-15;1708;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;30;Car;1
+27V1231;434648;437187;2;31-jul-15;1750;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;6;Pedal cycle;1
+27V1244;435832;436503;1;31-jul-15;1755;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;10;Car;1
+27V1378;420596;440653;2;31-jul-15;1907;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;76;Car;1
+27V1507;419144;442193;2;31-jul-15;2015;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;23;Car;1
+27V1717;443636;436684;5;31-jul-15;2200;A(M);Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;22;Car;0
+27V1717;443636;436684;5;31-jul-15;2200;A(M);Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;19;Car;1
+27V1717;443636;436684;5;31-jul-15;2200;A(M);Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;21;Bus or coach (17 or more passenger seats);1
+27V1717;443636;436684;5;31-jul-15;2200;A(M);Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;44;Bus or coach (17 or more passenger seats);1
+27V1717;443636;436684;5;31-jul-15;2200;A(M);Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;25;Bus or coach (17 or more passenger seats);1
+2810380;428880;440028;2;01-Aug-15;545;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;38;Taxi/Private hire car;1
+2810380;428880;440028;2;01-Aug-15;545;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;39;Taxi/Private hire car;1
+2810380;428880;440028;2;01-Aug-15;545;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;33;Taxi/Private hire car;1
+2810380;428880;440028;2;01-Aug-15;545;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;26;Taxi/Private hire car;1
+2811197;433822;445036;2;01-Aug-15;1702;A;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;22;Car;1
+2811197;433822;445036;2;01-Aug-15;1702;A;Wet / Damp;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;55;Car;1
+2811197;433822;445036;2;01-Aug-15;1702;A;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;57;Car;1
+2811294;440616;433553;2;01-Aug-15;1800;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;64;Car;1
+2811362;428534;434388;2;01-Aug-15;1845;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;11;Pedal cycle;1
+2811596;430684;445492;2;01-Aug-15;2100;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Pedal cycle;1
+2820644;430749;434686;2;02-Aug-15;1130;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;29;Car;1
+2831173;431884;435515;3;03-Aug-15;1705;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;16;Car;1
+2831173;431884;435515;3;03-Aug-15;1705;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;54;Car;1
+2831632;431305;428461;2;03-Aug-15;2041;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;16;M/cycle 50cc and under;1
+2840283;420239;436042;3;04-Aug-15;820;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;28;Car;1
+2840780;432009;436160;2;04-Aug-15;1425;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;56;Car;1
+2840780;432009;436160;2;04-Aug-15;1425;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;23;Car;1
+2841076;425890;426590;2;04-Aug-15;1707;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;65;Motorcycle over 125cc and up to 500cc;1
+2841122;430861;434357;2;04-Aug-15;1726;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Pedal cycle;1
+2841140;417752;444431;2;04-Aug-15;1735;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;54;Motorcycle over 500cc;1
+2841140;417752;444431;2;04-Aug-15;1735;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;53;Motorcycle over 500cc;1
+2841249;435991;428230;2;04-Aug-15;1800;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;29;Motorcycle over 500cc;1
+2841265;428967;425979;2;02-Aug-15;1115;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;45;Motorcycle over 500cc;0
+2861519;425795;433074;2;06-Aug-15;1940;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;84;Car;1
+2861531;445830;431302;2;06-Aug-15;1947;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;46;Goods vehicle 3.5 tonnes mgw and under;0
+2861531;445830;431302;2;06-Aug-15;1947;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Fatal;Male;26;Other Vehicle ;1
+2861531;445830;431302;2;06-Aug-15;1947;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;50;Other Vehicle ;0
+2861531;445830;431302;2;06-Aug-15;1947;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;7;Other Vehicle ;1
+2861531;445830;431302;2;06-Aug-15;1947;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Male;5;Other Vehicle ;1
+2861531;445830;431302;2;06-Aug-15;1947;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;8;Other Vehicle ;1
+2870836;427097;426123;1;07-Aug-15;1400;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;59;Car;1
+2871233;430215;434923;2;07-Aug-15;1720;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;31;Pedal cycle;0
+2880547;437045;438288;2;08-Aug-15;904;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;42;Pedal cycle;0
+2880744;429757;425596;2;08-Aug-15;1136;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;33;Motorcycle over 50cc and up to 125cc;1
+2880776;434718;430438;2;09-Aug-15;1211;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;24;Motorcycle over 125cc and up to 500cc;1
+2880776;434718;430438;2;09-Aug-15;1211;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;24;Motorcycle over 125cc and up to 500cc;0
+2880803;441346;445094;2;08-Aug-15;1215;A(M);Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;46;Motorcycle over 500cc;1
+2880909;427744;436450;2;08-Aug-15;2025;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;39;Pedal cycle;1
+2881570;427084;432526;3;08-Aug-15;2003;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;34;Car;1
+2881871;431225;435476;1;08-Aug-15;2225;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Female;22;Car;1
+2890778;432768;436182;2;09-Aug-15;1215;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;16;Car;1
+2890778;432768;436182;2;09-Aug-15;1215;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;17;Car;0
+2890778;432768;436182;2;09-Aug-15;1215;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;27;Car;1
+2890804;424061;428051;2;09-Aug-15;1231;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;26;Motorcycle over 500cc;1
+2890804;424061;428051;2;09-Aug-15;1231;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;NA;Female;39;Car;1
+28A0761;441226;445346;2;10-Aug-15;1411;Motorway;Wet / Damp;Daylight: street lights present;Raining without high winds;Passenger;Slight;Female;61;Car;0
+28A0761;441226;445346;2;10-Aug-15;1411;Motorway;Wet / Damp;Daylight: street lights present;Raining without high winds;Passenger;Slight;Female;57;Car;1
+28A1122;427786;436379;2;10-Aug-15;1632;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;32;Pedal cycle;1
+28A1253;431057;430936;2;10-Aug-15;1827;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;11;Pedal cycle;1
+28B0254;426472;444748;2;11-Aug-15;709;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;43;Goods vehicle 7.5 tonnes mgw and over;0
+28B0271;427127;434793;2;11-Aug-15;749;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;27;Pedal cycle;0
+28B0277;421366;433144;2;11-Aug-15;730;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;18;Motorcycle over 50cc and up to 125cc;1
+28B0524;426322;435515;3;11-Aug-15;1545;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;28;Car;1
+28B0526;427615;437092;2;11-Aug-15;1100;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;74;Car;1
+28B0900;431754;435518;2;11-Aug-15;1645;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;20;Car;1
+28B0951;431559;434355;3;11-Aug-15;1510;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;86;Car;1
+28B1090;438681;445842;2;11-Aug-15;1629;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;23;Pedal cycle;1
+28B1275;435998;434797;1;11-Aug-15;1749;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;9;M/cycle 50cc and under;1
+28C0509;423090;437694;1;12-Aug-15;1111;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;3;Car;1
+28C0603;431885;435553;2;12-Aug-15;1200;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;45;Car;0
+28C0619;426856;438042;2;12-Aug-15;1227;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Female;32;Pedal cycle;1
+28C0746;430894;436421;2;12-Aug-15;1245;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;24;Goods vehicle 3.5 tonnes mgw and under;1
+28C1081;441883;430161;2;12-Aug-15;1600;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;6;Pedal cycle;1
+28C1608;429470;433620;1;11-Aug-15;1030;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;44;Car;1
+28C1627;429053;430470;2;12-Aug-15;2054;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;18;M/cycle 50cc and under;0
+28C1656;429862;433524;1;12-Aug-15;1656;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;60;Bus or coach (17 or more passenger seats);1
+28D0153;432543;442835;1;13-Aug-15;330;A;Dry;Darkness: no street lighting;Fine without high winds;Driver/Rider;Slight;Male;66;Car;1
+28D0380;418962;441738;1;13-Aug-15;1002;B;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;90;Car;1
+28D1126;432105;435417;1;13-Aug-15;1718;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;10;Car;1
+28D1243;427377;434919;2;13-Aug-15;1810;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;21;Motorcycle over 50cc and up to 125cc;1
+28D1274;431591;430912;2;13-Aug-15;1430;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;23;Taxi/Private hire car;1
+28D1274;431591;430912;2;13-Aug-15;1430;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;21;Taxi/Private hire car;1
+28D1457;440172;433414;2;13-Aug-15;1959;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;21;Car;1
+28F0973;430003;438579;2;15-Aug-15;1505;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;58;Car;1
+28F1263;421596;439398;1;15-Aug-15;1825;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;18;Motorcycle over 50cc and up to 125cc;1
+28G0519;441686;448925;1;16-Aug-15;955;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;61;Motorcycle over 500cc;1
+28G0583;428983;439125;2;16-Aug-15;1050;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;21;Car;1
+28G0583;428983;439125;2;16-Aug-15;1050;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;26;Car;1
+28G1096;420343;436252;1;16-Aug-15;1620;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;78;Car;1
+28G1096;420343;436252;1;16-Aug-15;1620;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;43;Car;1
+28G1201;427784;430722;3;16-Aug-15;1715;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;64;Car;1
+28G1201;427784;430722;3;16-Aug-15;1715;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;23;Car;1
+28G1408;422826;432541;1;16-Aug-15;1912;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;27;Car;1
+28H0312;425152;437563;1;17-Aug-15;850;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;10;Car;1
+28H0373;426283;435588;2;17-Aug-15;934;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;32;Car;1
+28H0677;436819;443884;2;17-Aug-15;1238;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;31;Pedal cycle;0
+28H0763;428722;429698;2;14-Aug-15;1635;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;41;Car;1
+28H0788;428808;432670;2;17-Aug-15;1330;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;28;Car;1
+28H1072;430233;435116;2;17-Aug-15;1600;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;48;Pedal cycle;1
+28H1115;419771;441329;2;17-Aug-15;1628;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;40;Minibus (8 _ 16 passenger seats);1
+28H1115;419771;441329;2;17-Aug-15;1628;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;68;Minibus (8 _ 16 passenger seats);1
+28H1370;432115;427471;3;17-Aug-15;1854;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;47;Car;0
+28H1370;432115;427471;3;17-Aug-15;1854;Motorway;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;58;Car;1
+28H1370;432115;427471;3;17-Aug-15;1854;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;51;Car;1
+28I0514;436981;433592;4;18-Aug-15;1150;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Female;35;Car;1
+28I0514;436981;433592;4;18-Aug-15;1150;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;50;Car;0
+28I0514;436981;433592;4;18-Aug-15;1150;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Female;68;Car;0
+28I0517;431884;435694;2;18-Aug-15;1157;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;50;Bus or coach (17 or more passenger seats);0
+28I0529;421995;433957;3;18-Aug-15;1200;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Passenger;Serious;Male;37;Goods vehicle 3.5 tonnes mgw and under;1
+28I0529;421995;433957;3;18-Aug-15;1200;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;26;Goods vehicle 3.5 tonnes mgw and under;1
+28I0976;429615;429894;2;18-Aug-15;1705;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;17;M/cycle 50cc and under;0
+28I1014;427906;432216;2;18-Aug-15;1725;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;49;Motorcycle over 50cc and up to 125cc;1
+28I1018;431952;435864;1;18-Aug-15;1815;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Pedestrian;Serious;Female;65;Car;1
+28I1156;425886;429886;2;18-Aug-15;1835;A;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Fatal;Male;41;Pedal cycle;1
+28I1156;425886;429886;2;18-Aug-15;1835;A;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;29;Car;1
+28J0003;443279;439542;2;19-Aug-15;1;A(M);Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Driver/Rider;Slight;Male;33;Car;1
+28J0003;443279;439542;2;19-Aug-15;1;A(M);Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Driver/Rider;Slight;Male;22;Car;1
+28J0351;426727;431737;2;19-Aug-15;930;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;24;Car;1
+28J0351;426727;431737;2;19-Aug-15;930;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;60;Car;1
+28J0709;430465;431602;1;19-Aug-15;1325;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Motorcycle over 50cc and up to 125cc;1
+28J0744;431371;429676;2;19-Aug-15;1343;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;7;Pedal cycle;1
+28J1509;425939;438113;2;19-Aug-15;2055;A;Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Driver/Rider;Slight;Male;40;Car;0
+28J1509;425939;438113;2;19-Aug-15;2055;A;Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Driver/Rider;Slight;Female;23;Car;1
+28K0249;420308;445750;2;20-Aug-15;740;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;26;Car;1
+28K0353;436895;432971;2;20-Aug-15;830;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;36;Car;1
+28K1148;430692;434525;2;20-Aug-15;1712;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;23;Pedal cycle;1
+28K1218;430842;434106;2;20-Aug-15;1740;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;57;Pedal cycle;1
+28K1315;421113;434889;1;20-Aug-15;1820;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;9;Taxi/Private hire car;1
+28K9999;443200;439744;1;20-Aug-15;659;A(M);Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;39;Car;1
+28K9999;443200;439744;1;20-Aug-15;659;A(M);Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;38;Car;0
+28L0945;420816;434408;2;21-Aug-15;1445;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;78;Car;0
+28L1266;426283;435578;2;21-Aug-15;1720;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;65;Car;1
+28L1266;426283;435578;2;21-Aug-15;1720;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;39;Car;1
+28L1727;431912;434798;2;21-Aug-15;2136;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;31;Bus or coach (17 or more passenger seats);1
+28M0218;432043;434943;2;22-Aug-15;213;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;42;Car;1
+28M0218;432043;434943;2;22-Aug-15;213;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;47;Car;1
+28M0706;424791;434815;2;24-Aug-15;1130;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;20;Motorcycle over 50cc and up to 125cc;1
+28M0945;430835;435505;3;22-Aug-15;810;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;39;Taxi/Private hire car;1
+28M1141;429414;433778;2;22-Aug-15;1540;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;42;Car;0
+28M1246;428006;435553;2;22-Aug-15;1640;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Female;44;Car;1
+28M1394;430493;426488;4;22-Aug-15;1755;Motorway;Flood (surface water over 3cm deep);Daylight: street lights present;Raining without high winds;Passenger;Slight;Female;58;Car;1
+28M1466;440519;429004;1;22-Aug-15;1825;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Pedestrian;Serious;Female;19;Car;1
+28M1758;434273;428314;1;22-Aug-15;2100;Unclassified;Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Pedestrian;Serious;Male;45;Car;1
+28N0591;431953;427842;2;23-Aug-15;1000;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;50;Car;0
+28N0591;431953;427842;2;23-Aug-15;1000;Motorway;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;46;Car;0
+28N0725;426065;435591;2;23-Aug-15;1129;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;33;Pedal cycle;1
+28O0292;425800;435682;2;24-Aug-15;823;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;24;Pedal cycle;1
+28O0312;430801;435344;2;24-Aug-15;840;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;28;Pedal cycle;1
+28O1194;443241;428077;2;24-Aug-15;1730;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;65;Car;1
+28O1239;432889;435852;2;24-Aug-15;1740;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;12;Pedal cycle;1
+28O1407;428531;437059;1;24-Aug-15;1924;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;9;Taxi/Private hire car;1
+28P0237;422543;429121;2;25-Aug-15;715;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;23;Pedal cycle;1
+28P0248;432052;439745;2;25-Aug-15;814;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;41;Pedal cycle;1
+28P0542;430922;433485;1;25-Aug-15;1130;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;21;Bus or coach (17 or more passenger seats);1
+28P0644;418968;446441;2;25-Aug-15;1230;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;50;Pedal cycle;1
+28P1035;423042;443001;1;25-Aug-15;1300;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;78;Bus or coach (17 or more passenger seats);1
+28P1194;426143;437279;2;25-Aug-15;1700;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;24;Car;0
+28P1592;430747;439249;2;25-Aug-15;840;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;40;Motorcycle over 50cc and up to 125cc;0
+28P1682;430360;433457;2;25-Aug-15;2120;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;23;Car;1
+28P1682;430360;433457;2;25-Aug-15;2120;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;4;Car;1
+28P1694;427259;433586;2;24-Aug-15;1400;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;26;Car;1
+28Q0269;431749;435501;2;26-Aug-15;845;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;26;Pedal cycle;1
+28Q0414;431246;445733;2;26-Aug-15;730;A;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;33;Car;0
+28Q0934;427569;436873;2;26-Aug-15;1529;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;29;Pedal cycle;1
+28R0800;418669;441467;1;27-Aug-15;1345;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;18;M/cycle 50cc and under;1
+28R1320;428690;434948;2;27-Aug-15;1810;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;20;Pedal cycle;1
+28R1455;432532;443146;2;27-Aug-15;1922;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;65;Car;1
+28S0308;428097;434512;2;28-Aug-15;826;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;47;Car;1
+28S0308;428097;434512;2;28-Aug-15;826;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;26;Car;1
+28S0333;427832;435806;2;28-Aug-15;830;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;34;Car;1
+28S0333;427832;435806;2;28-Aug-15;830;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;40;Car;1
+28S1024;430273;431943;3;28-Aug-15;1618;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;31;Car;1
+28S1024;430273;431943;3;28-Aug-15;1618;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;45;Car;1
+28S1153;431555;435193;2;28-Aug-15;1730;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;33;Car;1
+28S1305;434686;433571;2;28-Aug-15;1825;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;18;Car;1
+28S1305;434686;433571;2;28-Aug-15;1825;B;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;40;Motorcycle over 500cc;1
+28S1405;425105;434211;2;28-Aug-15;1949;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;23;Motorcycle over 50cc and up to 125cc;1
+28S1653;433650;435307;2;28-Aug-15;2115;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;29;Pedal cycle;1
+28S1821;425498;428680;1;28-Aug-15;2301;Motorway;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Female;33;Goods vehicle 3.5 tonnes mgw and under;1
+28T0569;436184;434391;2;29-Aug-15;1020;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;62;Car;1
+28T0569;436184;434391;2;29-Aug-15;1020;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;81;Car;1
+28T0569;436184;434391;2;29-Aug-15;1020;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;28;Car;1
+28T1552;442464;447890;2;29-Aug-15;1945;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;71;Pedal cycle;1
+28T2037;429080;433631;1;29-Aug-15;2340;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;21;Car;1
+28T2037;429080;433631;1;29-Aug-15;2340;A;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;20;Car;1
+28T2037;429080;433631;1;29-Aug-15;2340;A;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;21;Car;1
+28U0680;426219;427803;1;30-Aug-15;1233;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Female;30;Car;1
+28U0756;420308;434268;2;30-Aug-15;1328;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;57;Motorcycle over 500cc;1
+28U0864;434438;434385;2;30-Aug-15;1415;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;31;Car;1
+28U0864;434438;434385;2;30-Aug-15;1415;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;10;Car;1
+28U1212;429152;429305;1;30-Aug-15;1750;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;36;Motorcycle over 500cc;1
+28U1212;429152;429305;1;30-Aug-15;1750;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;10;Motorcycle over 500cc;1
+28U1232;429008;433567;2;30-Aug-15;1805;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;57;Car;1
+28U1232;429008;433567;2;30-Aug-15;1805;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;49;Car;0
+28U1232;429008;433567;2;30-Aug-15;1805;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;29;Car;1
+28V0788;424870;437363;4;31-Aug-15;1331;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;24;Car;0
+2910178;427529;426263;2;01-sep-15;615;A;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Fatal;Male;44;Motorcycle over 50cc and up to 125cc;0
+2910295;425627;434251;1;01-sep-15;913;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;35;Car;1
+2911181;428160;430064;2;01-sep-15;1757;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;18;Car;1
+2911358;428750;437049;1;01-sep-15;1924;B;Wet / Damp;Darkness: street lights present and lit;Raining without high winds;Pedestrian;Slight;Male;68;Car;1
+2911428;432581;434909;2;01-sep-15;2033;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;46;Motorcycle over 500cc;0
+2911470;431317;433910;2;01-sep-15;2055;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;22;Pedal cycle;0
+2911520;426275;435799;2;01-sep-15;1520;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;42;Minibus (8 _ 16 passenger seats);1
+2920290;426265;433084;2;02-sep-15;832;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;27;Pedal cycle;1
+2920325;428576;434242;2;02-sep-15;704;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;25;Pedal cycle;1
+2920513;428539;431538;2;02-sep-15;1130;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;37;Car;1
+2921170;431962;435043;1;02-sep-15;1735;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;27;Car;1
+2921225;430184;433397;1;02-sep-15;1813;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;27;Bus or coach (17 or more passenger seats);1
+2921255;423447;437675;2;02-sep-15;1800;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;49;Pedal cycle;1
+2921300;427062;431803;2;02-sep-15;1830;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;20;Car;0
+2921318;423552;433923;2;02-sep-15;1910;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;47;Bus or coach (17 or more passenger seats);1
+2921626;427867;437283;1;02-sep-15;1631;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;58;Car;1
+2930390;422351;436905;2;03-sep-15;1015;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;38;Car;0
+2930529;431228;432845;2;03-sep-15;1156;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;17;Motorcycle over 50cc and up to 125cc;1
+2930587;428568;427785;2;03-sep-15;1223;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;35;Car;1
+2930587;428568;427785;2;03-sep-15;1223;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;8;Car;1
+2930587;428568;427785;2;03-sep-15;1223;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;1;Car;1
+2930587;428568;427785;2;03-sep-15;1223;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;26;Car;0
+2931234;434904;437073;1;04-sep-15;1843;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Female;9;Car;1
+2940397;430718;433603;2;03-sep-15;1645;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;41;Pedal cycle;1
+2941054;425498;436398;3;04-sep-15;1654;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;60;Car;1
+2941227;426507;433928;2;04-sep-15;1834;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;41;Car;1
+2941276;426432;433303;2;04-sep-15;1910;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;28;Car;1
+2941276;426432;433303;2;04-sep-15;1910;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;23;Car;1
+2941276;426432;433303;2;04-sep-15;1910;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;16;Motorcycle over 50cc and up to 125cc;1
+2941759;421635;440843;2;04-sep-15;2353;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;37;Car;0
+2950323;443613;435496;1;05-sep-15;700;A(M);Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;23;Motorcycle over 500cc;1
+2950836;431089;435718;2;05-sep-15;1356;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;24;Car;1
+2951011;429002;433564;2;05-sep-15;1545;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;44;Pedal cycle;1
+2951290;424263;439001;2;05-sep-15;1505;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;74;Bus or coach (17 or more passenger seats);0
+2951293;429701;434344;2;05-sep-15;1750;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;39;Car;0
+2951501;427969;426432;2;05-sep-15;2055;Motorway;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;34;Car;1
+2951528;432600;428270;2;05-sep-15;2200;A;Dry;Darkness: street lights present but unlit;Fine without high winds;Driver/Rider;Serious;Male;25;Car;1
+2951528;432600;428270;2;05-sep-15;2200;A;Dry;Darkness: street lights present but unlit;Fine without high winds;Passenger;Serious;Male;22;Car;1
+2951528;432600;428270;2;05-sep-15;2200;A;Dry;Darkness: street lights present but unlit;Fine without high winds;Passenger;Serious;Male;18;Car;1
+2951660;423855;429475;2;05-sep-15;2230;B;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;18;Car;1
+2951660;423855;429475;2;05-sep-15;2230;B;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Male;20;Car;1
+2951660;423855;429475;2;05-sep-15;2230;B;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Serious;Male;20;Car;1
+2951660;423855;429475;2;05-sep-15;2230;B;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Serious;Male;18;Car;1
+2960386;429775;438891;2;06-sep-15;720;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;27;Pedal cycle;1
+2961012;433502;434028;2;04-sep-15;1556;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;22;Car;1
+2961648;429922;427806;2;06-sep-15;2133;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Female;48;Car;1
+2961690;429369;433782;2;06-sep-15;2200;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Female;24;Car;1
+2961690;429369;433782;2;06-sep-15;2200;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;52;Car;0
+2961690;429369;433782;2;06-sep-15;2200;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Male;33;Car;1
+2961690;429369;433782;2;06-sep-15;2200;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;43;Car;1
+2961690;429369;433782;2;06-sep-15;2200;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;21;Car;1
+2961690;429369;433782;2;06-sep-15;2200;Unclassified;Wet / Damp;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;17;Car;0
+2970351;426191;437503;2;07-sep-15;645;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;34;Pedal cycle;1
+2970690;429788;430628;3;07-sep-15;1353;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;39;Car;1
+2971036;419622;433581;1;09-sep-15;1700;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;43;Car;1
+2971431;429613;433801;2;07-sep-15;2025;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;50;Car;1
+2980475;440208;432953;1;08-sep-15;1124;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;84;Car;1
+2980756;415382;443006;2;08-sep-15;1440;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;21;Car;1
+2980756;415382;443006;2;08-sep-15;1440;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;66;Car;1
+2980881;440006;432388;2;06-sep-15;1806;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;23;Car;1
+2980881;440006;432388;2;06-sep-15;1806;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;53;Car;1
+2980881;440006;432388;2;06-sep-15;1806;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;21;Car;1
+29A1185;430368;427966;1;10-sep-15;1730;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;54;M/cycle 50cc and under;1
+29A1232;433840;427713;1;10-sep-15;1805;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;18;Motorcycle over 50cc and up to 125cc;1
+29A1314;429915;433797;1;10-sep-15;1700;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Serious;Female;83;Bus or coach (17 or more passenger seats);1
+29B0203;434333;425851;1;11-sep-15;600;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;45;Car;1
+29B0203;434333;425851;1;11-sep-15;600;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Male;21;Car;1
+29B0237;420579;445267;1;11-sep-15;718;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Pedestrian;Slight;Female;31;Car;1
+29B0288;431833;435987;2;11-sep-15;816;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;35;Pedal cycle;1
+29B0532;437356;430142;1;11-sep-15;1107;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;30;Car;1
+29B0557;430356;438557;2;11-sep-15;1120;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;33;Car;1
+29B0557;430356;438557;2;11-sep-15;1120;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;40;Car;1
+29B0695;431518;429235;2;11-sep-15;1100;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;20;Motorcycle over 50cc and up to 125cc;1
+29B0793;428743;432714;2;11-sep-15;1341;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;41;Pedal cycle;1
+29B0999;423664;433428;3;11-sep-15;1527;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;20;Car;1
+29B1119;440133;445949;1;11-sep-15;1626;A;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;52;Motorcycle over 500cc;1
+29B1209;433009;425935;2;11-sep-15;1708;Motorway;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;59;Motorcycle over 500cc;1
+29B1368;429702;434348;3;11-sep-15;1840;A(M);Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;25;Motorcycle over 50cc and up to 125cc;1
+29B1442;445372;446876;1;11-sep-15;1920;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;23;Agricultural vehicle (includes diggers etc.);1
+29B1442;445372;446876;1;11-sep-15;1920;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;17;Agricultural vehicle (includes diggers etc.);1
+29B1877;421665;433865;1;11-sep-15;2330;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Pedestrian;Slight;Female;39;Car;1
+29C0164;430060;433991;1;12-sep-15;200;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Slight;Male;28;Car;1
+29C0363;424441;442060;1;12-sep-15;741;Unclassified;Wet / Damp;Daylight: street lights present;Raining without high winds;Driver/Rider;Slight;Male;26;Car;1
+29C1032;426224;433074;2;12-sep-15;1609;B;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;32;Car;1
+29C1141;432552;433803;2;12-sep-15;1711;A;Dry;Daylight: street lights present;Fine without high winds;Passenger;Slight;Female;84;Bus or coach (17 or more passenger seats);1
+29C1267;428209;434608;2;14-sep-15;1830;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;16;Pedal cycle;0
+29C1467;425950;426791;2;12-sep-15;2038;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Female;21;Car;1
+29C1490;431711;435435;3;12-sep-15;2045;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Female;55;Car;1
+29C1490;431711;435435;3;12-sep-15;2045;A;Dry;Darkness: street lights present and lit;Fine without high winds;Driver/Rider;Slight;Female;46;Car;1
+29D0126;429900;435437;1;13-sep-15;245;Unclassified;Dry;Darkness: street lights present and lit;Fine without high winds;Passenger;Slight;Female;18;Car;1
+29F0215;418982;443894;2;15-sep-15;833;Unclassified;Wet / Damp;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Female;37;Car;1
+29F0880;424968;427556;2;15-sep-15;1515;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Slight;Male;27;Motorcycle over 50cc and up to 125cc;1
+29F1021;435779;436767;1;15-sep-15;1625;A;Dry;Daylight: street lights present;Fine without high winds;Pedestrian;Serious;Male;13;Car;1
+29G0199;432311;427593;2;16-sep-15;751;Unclassified;Dry;Daylight: street lights present;Fine without high winds;Driver/Rider;Serious;Male;27;Motorcycle over 50cc and up to 125cc;1
