@@ -13,7 +13,7 @@ def load_mysql_data():
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="",  # Asegúrate de usar una contraseña segura en entornos reales
+        password="", 
         database="proyectoia"
     )
     # Define la consulta SQL para obtener todos los datos de la tabla accidentestransito
@@ -31,7 +31,7 @@ def merge_data(csv_path):
     df_csv = load_csv_data(csv_path)
     # Carga los datos desde la base de datos
     df_db = load_mysql_data()
-    # Une ambos DataFrames en uno solo (opcional: podría incluir lógica de limpieza o eliminación de duplicados)
+    # Une ambos DataFrames en uno solo 
     df_total = pd.concat([df_csv, df_db], ignore_index=True)
-    # Devuelve el DataFrame combinado (aunque actualmente solo devuelve el CSV)
+    # Devuelve el DataFrame combinado 
     return df_total
